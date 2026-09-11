@@ -8,6 +8,8 @@ Everything here was learned the hard way — including setting the units up from
 with no monitor, keyboard, or Ethernet cable. The pitfalls section is the part I wish had
 existed before I started.
 
+Make sure the AI that's helping you always mentions which node it's referring to CLEARLY!
+
 > Hardware: 2× DGX Spark (128 GB unified memory each, 4 TB NVMe, ConnectX-7 2×QSFP 200GbE)
 > connected with one QSFP56 passive DAC cable, port 0 ↔ port 0. DGX OS 7.x (Ubuntu 24, aarch64).
 
